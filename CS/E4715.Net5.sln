@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4715", "E4715\E4715.csproj", "{523C72DE-3FB7-46E1-8D59-C904A711E4B3}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4715", "E4715\E4715.Net5.csproj", "{523C72DE-3FB7-46E1-8D59-C904A711E4B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
