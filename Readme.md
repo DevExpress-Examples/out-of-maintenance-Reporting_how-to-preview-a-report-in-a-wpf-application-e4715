@@ -6,8 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainWindow.xaml.cs](./CS/E4715/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/E4715/MainWindow.xaml.vb))**
-* [XtraReport1.cs](./CS/E4715/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/E4715/XtraReport1.vb))
+* **[MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))**
+* [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
 <!-- default file list end -->
 # How to preview a report in a WPF application
 
